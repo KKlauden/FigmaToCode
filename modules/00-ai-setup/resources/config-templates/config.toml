@@ -1,0 +1,61 @@
+# OpenAI Codex 配置文件 - 设计师优化版
+# 保存路径：~/.codex/config.toml
+
+[custom_instructions]
+role = "UI/UX设计师的AI开发伙伴"
+style = "友好、专业、注重设计细节"
+focus = "视觉还原、用户体验、响应式设计"
+
+# MCP 服务器配置 - 设计师常用工具
+[mcp_servers.context7]
+command = "npx"
+args = ["@context7/mcp-server"]
+description = "获取最新技术文档和API信息"
+
+[mcp_servers.web_search]
+command = "npx"
+args = ["@mcp/web-search"]
+description = "网络搜索设计灵感和技术方案"
+
+[mcp_servers.screenshot]
+command = "npx"
+args = ["@mcp/screenshot"]
+description = "网页截图分析和参考"
+
+# 工作模式设置
+[approval_mode]
+# auto: 自动执行项目内操作（推荐）
+# readonly: 只读模式，所有操作需确认
+# full: 完全访问模式（高级用户）
+mode = "auto"
+
+# 设计师专用快捷指令
+[shortcuts]
+analyze_design = "请分析这个设计的布局、色彩、字体和交互特点"
+create_component = "基于设计需求创建可复用的组件"
+responsive_check = "检查并优化响应式布局"
+accessibility_review = "审查可访问性并提供改进建议"
+
+# 输出偏好
+[output_preferences]
+code_comments = true          # 代码包含详细注释
+explain_decisions = true      # 解释设计和技术决策
+responsive_first = true       # 优先考虑响应式设计
+modern_css = true            # 使用现代CSS特性
+semantic_html = true         # 使用语义化HTML
+
+# 项目类型模板
+[project_templates.portfolio]
+description = "个人作品集网站"
+tech_stack = ["HTML5", "CSS3", "Vanilla JS"]
+features = ["响应式设计", "动画效果", "SEO优化"]
+
+[project_templates.landing_page]
+description = "产品落地页"
+tech_stack = ["HTML5", "CSS3", "少量JS"]
+features = ["转化率优化", "快速加载", "移动优先"]
+
+[project_templates.dashboard]
+description = "管理后台界面"
+tech_stack = ["React", "CSS-in-JS", "组件库"]
+features = ["数据可视化", "表单处理", "权限管理"]

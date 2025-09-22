@@ -1,0 +1,77 @@
+title: 设计师转前端开发者：AI时代学习规划
+description: 专为设计师设计的前端技能提升计划，在AI工具协助下高效掌握现代前端技术栈
+baseurl: ""
+url: ""
+
+# GitHub Pages settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Navigation
+navigation:
+  - title: "首页"
+    url: "/"
+  - title: "学习路径"
+    url: "/modules/"
+  - title: "播客"
+    url: "/podcasts/"
+  - title: "工具"
+    url: "/tools/"
+  - title: "进度追踪"
+    url: "/progress-tracker/"
+
+# Author
+author:
+  name: FigmaToCode Learning
+  email: figmatocode@example.com
+
+# SEO
+lang: zh-CN
+timezone: Asia/Shanghai
+
+# Markdown processing
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# Collections
+collections:
+  modules:
+    output: true
+    permalink: /:collection/:name/
+  podcasts:
+    output: true
+    permalink: /:collection/:name/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "FigmaToCode Learning"
+  - scope:
+      path: ""
+      type: "modules"
+    values:
+      layout: "module"
+  - scope:
+      path: ""
+      type: "podcasts"
+    values:
+      layout: "podcast"
+
+# Exclude from processing
+exclude:
+  - .git/
+  - .gitignore
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/
+  - README.md
