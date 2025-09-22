@@ -9,18 +9,9 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
 
-# Navigation
-navigation:
-  - title: "首页"
-    url: "/"
-  - title: "学习路径"
-    url: "/modules/"
-  - title: "播客"
-    url: "/podcasts/"
-  - title: "工具"
-    url: "/tools/"
-  - title: "进度追踪"
-    url: "/progress-tracker/"
+# Header pages for navigation
+header_pages:
+  - modules.md
 
 # Author
 author:
@@ -42,10 +33,11 @@ kramdown:
 collections:
   modules:
     output: true
-    permalink: /:collection/:name/
-  podcasts:
-    output: true
-    permalink: /:collection/:name/
+    permalink: /modules/:name/
+
+# Include non-standard directories
+include:
+  - modules
 
 # Defaults
 defaults:

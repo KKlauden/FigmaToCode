@@ -1,3 +1,9 @@
+---
+layout: default
+title: 模块二：React 组件化开发
+permalink: /modules/02-react-development/
+---
+
 # 模块二：React 组件化开发 ⭐⭐⭐
 
 **作品集版本**：V2.0 组件化重构

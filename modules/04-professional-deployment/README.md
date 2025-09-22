@@ -1,3 +1,9 @@
+---
+layout: default
+title: 模块四：专业部署与运维
+permalink: /modules/04-professional-deployment/
+---
+
 # 模块四：专业部署与运维 ⭐⭐⭐
 
 **作品集版本**：V4.0 专业级网站

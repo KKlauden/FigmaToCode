@@ -1,3 +1,9 @@
+---
+layout: default
+title: 模块六：跨平台开发
+permalink: /modules/06-cross-platform/
+---
+
 # 模块六：跨平台开发 ⭐⭐⭐⭐
 
 **作品集版本**：V6.0 跨平台生态

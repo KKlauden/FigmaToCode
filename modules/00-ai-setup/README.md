@@ -1,3 +1,9 @@
+---
+layout: default
+title: 模块 00：AI 编程环境配置
+permalink: /modules/00-ai-setup/
+---
+
 # 模块 00：AI 编程环境配置
 
 ## 🎧 配套播客

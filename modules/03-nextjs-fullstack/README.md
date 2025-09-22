@@ -1,3 +1,9 @@
+---
+layout: default
+title: 模块三：Next.js 全栈应用
+permalink: /modules/03-nextjs-fullstack/
+---
+
 # 模块三：Next.js 全栈应用 ⭐⭐⭐
 
 **作品集版本**：V3.0 现代全栈网站

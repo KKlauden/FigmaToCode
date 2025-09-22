@@ -1,3 +1,9 @@
+---
+layout: default
+title: 模块五：AI 深度协作与创新
+permalink: /modules/05-ai-innovation/
+---
+
 # 模块五：AI 深度协作与创新 ⭐⭐⭐
 
 **作品集版本**：V5.0 AI 智能网站

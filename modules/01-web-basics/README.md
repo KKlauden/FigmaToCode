@@ -1,3 +1,9 @@
+---
+layout: default
+title: 模块一：现代 Web 基础 + AI 协作
+permalink: /modules/01-web-basics/
+---
+
 # 模块一：现代 Web 基础 + AI 协作 ⭐⭐
 
 **作品集版本**：V1.0 基础展示网站
