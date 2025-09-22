@@ -1,7 +1,7 @@
-title: 设计师转前端开发者：AI时代学习规划
+title: FigmaToCode：设计师转前端开发者
 description: 专为设计师设计的前端技能提升计划，在AI工具协助下高效掌握现代前端技术栈
-baseurl: ""
-url: ""
+baseurl: "/FigmaToCode"
+url: "https://kklauden.github.io"
 
 # GitHub Pages settings
 theme: minima
