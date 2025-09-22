@@ -1,3 +1,9 @@
+---
+layout: default
+title: EP04：第一次 Vibe Coding 体验
+permalink: /modules/00-ai-setup/EP04-first-experience/
+---
+
 # EP04: 第一次 Vibe Coding 体验 ⏱️ 10 分钟
 
 ## 🎯 这一步要完成什么

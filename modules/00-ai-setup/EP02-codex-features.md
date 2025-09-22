@@ -1,3 +1,9 @@
+---
+layout: default
+title: EP02：Codex 2025 新功能和 MCP 设置
+permalink: /modules/00-ai-setup/EP02-codex-features/
+---
+
 # EP02: Codex 2025 新功能和 MCP 设置 ⏱️ 20 分钟
 
 ## 🎯 这一步要完成什么

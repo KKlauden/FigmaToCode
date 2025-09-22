@@ -1,3 +1,9 @@
+---
+layout: default
+title: EP01：安装和基本配置
+permalink: /modules/00-ai-setup/EP01-installation/
+---
+
 # EP01: 安装和基本配置 ⏱️ 15 分钟
 
 ## 🎯 这一步要完成什么

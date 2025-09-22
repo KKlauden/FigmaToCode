@@ -38,22 +38,22 @@ permalink: /modules/00-ai-setup/
 
 ## 📋 学习路径
 
-### [EP01: 安装和基本配置](EP01-installation.md) ⏱️ 15 分钟
+### [EP01: 安装和基本配置](EP01-installation/) ⏱️ 15 分钟
 - VS Code 安装和优化
 - OpenAI Codex 扩展配置
 - 账号登录和验证
 
-### [EP02: Codex 2025 新功能和 MCP](EP02-codex-features.md) ⏱️ 20 分钟
+### [EP02: Codex 2025 新功能和 MCP](EP02-codex-features/) ⏱️ 20 分钟
 - 图像上传功能（上传设计图！）
 - MCP 服务器配置
 - 任务跟踪和进度管理
 
-### [EP03: 设计师专属工作流](EP03-designer-workflow.md) ⏱️ 15 分钟
+### [EP03: 设计师专属工作流](EP03-designer-workflow/) ⏱️ 15 分钟
 - AGENTS.md 系统提示词设置
 - 设计师专用的对话模板
 - 工作流程优化
 
-### [EP04: 第一次 Vibe Coding](EP04-first-experience.md) ⏱️ 10 分钟
+### [EP04: 第一次 Vibe Coding](EP04-first-experience/) ⏱️ 10 分钟
 - 上传一张设计图
 - 用自然语言生成代码
 - 体验"设计变代码"的魔法
