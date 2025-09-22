@@ -1,3 +1,9 @@
+---
+layout: default
+title: 模块 00 快速检查清单
+permalink: /modules/00-ai-setup/resources/quick-checklist/
+---
+
 # 模块 00 快速检查清单
 
 ## ✅ 基础环境（必须完成）
