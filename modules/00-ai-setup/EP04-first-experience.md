@@ -9,6 +9,7 @@ permalink: /modules/00-ai-setup/EP04-first-experience/
 ## 🎯 这一步要完成什么
 
 **体验设计变代码的魔法时刻**：
+
 - 上传一张设计图或手绘草图 ✏️
 - 用自然语言描述需求 💬
 - 看 AI 生成完整的网页代码 🤖
@@ -21,16 +22,19 @@ permalink: /modules/00-ai-setup/EP04-first-experience/
 ### 选择一个简单的设计
 
 **方案 A**：使用现有设计图
+
 - 任何界面截图（登录框、卡片、按钮等）
 - Figma 设计稿的截图
 - 参考网站的截图
 
 **方案 B**：快速手绘（推荐新手）
+
 - 在纸上或平板上画一个简单界面
 - 比如：登录框、产品卡片、个人介绍卡
 - 不需要精美，线框图即可
 
 **方案 C**：使用我们的示例
+
 - 如果没有设计图，我们提供文字描述版本
 
 ## 🚀 开始魔法体验（8 分钟）
@@ -38,6 +42,7 @@ permalink: /modules/00-ai-setup/EP04-first-experience/
 ### 第 1 步：创建项目文件夹（30 秒）
 
 1. **创建新文件夹**
+
    - 在桌面创建文件夹：`my-first-vibe-coding`
 
 2. **在 VS Code 中打开**
@@ -49,6 +54,7 @@ permalink: /modules/00-ai-setup/EP04-first-experience/
 #### 如果你有设计图
 
 1. **上传图片**
+
    - 在 Codex 面板中点击 📎 图标
    - 选择你的设计图片
 
@@ -107,6 +113,7 @@ permalink: /modules/00-ai-setup/EP04-first-experience/
 ```
 
 **观察 AI 的工作过程**：
+
 - 🤖 分析设计需求
 - 🤖 选择技术方案
 - 🤖 生成 HTML 结构
@@ -116,10 +123,12 @@ permalink: /modules/00-ai-setup/EP04-first-experience/
 ### 第 4 步：即时预览效果（1.5 分钟）
 
 1. **保存文件**
+
    - AI 会生成 `index.html` 和 `style.css`
    - 确保文件已保存到项目文件夹
 
 2. **安装 Live Server**（如果还没有）
+
    - VS Code 扩展商店搜索 "Live Server"
    - 安装后重启 VS Code
 
@@ -146,6 +155,7 @@ permalink: /modules/00-ai-setup/EP04-first-experience/
 ```
 
 **观察变化**：
+
 - AI 修改 CSS 代码
 - Live Server 自动刷新
 - 立即看到效果改变
@@ -163,12 +173,14 @@ permalink: /modules/00-ai-setup/EP04-first-experience/
 ### 传统方式 vs Vibe Coding
 
 **传统方式**：
+
 ```
 设计师 → 设计稿 → 开发者 → 沟通确认 → 编码 → 调试 → 反馈修改
 ⏰ 时间：几天到几周
 ```
 
 **Vibe Coding**：
+
 ```
 设计师 → 上传设计图 → 自然语言描述 → AI 生成代码 → 实时预览
 ⏰ 时间：几分钟
@@ -187,18 +199,21 @@ permalink: /modules/00-ai-setup/EP04-first-experience/
 ### 实际应用场景
 
 **客户提案**：
+
 ```
 "让我给您看看这个功能的实际效果..."
 [实时演示交互原型]
 ```
 
 **团队协作**：
+
 ```
 "我觉得这个按钮应该这样..."
 [立即修改并展示效果]
 ```
 
 **个人项目**：
+
 ```
 "想做个人网站，先做个原型看看..."
 [一个下午完成完整原型]
@@ -209,6 +224,7 @@ permalink: /modules/00-ai-setup/EP04-first-experience/
 如果你还有时间和兴趣，尝试：
 
 ### 挑战 1：添加更多功能
+
 ```
 "在登录卡片下方添加：
 - 社交媒体登录按钮（Google、Apple）
@@ -217,6 +233,7 @@ permalink: /modules/00-ai-setup/EP04-first-experience/
 ```
 
 ### 挑战 2：不同风格尝试
+
 ```
 "把这个登录卡片改成：
 - 深色主题版本
@@ -225,6 +242,7 @@ permalink: /modules/00-ai-setup/EP04-first-experience/
 ```
 
 ### 挑战 3：响应式优化
+
 ```
 "优化移动端体验：
 - 在小屏幕上调整布局
@@ -246,6 +264,7 @@ permalink: /modules/00-ai-setup/EP04-first-experience/
 **恭喜！** 🎉 你刚刚完成了人生中第一次 Vibe Coding 体验。
 
 **你现在具备了**：
+
 - AI 编程环境的完整配置
 - 与 AI 协作的基本技能
 - 从设计到代码的实践经验
@@ -264,15 +283,32 @@ permalink: /modules/00-ai-setup/EP04-first-experience/
 
 **设计师的时代宣言**：
 
-*今天，你用 10 分钟体验了设计师的未来。在这个未来中，设计师不再受限于技术实现，创意想法可以即时变为现实。你不是在学习编程，你是在掌握新时代设计师的超能力。*
+_今天，你用 10 分钟体验了设计师的未来。在这个未来中，设计师不再受限于技术实现，创意想法可以即时变为现实。你不是在学习编程，你是在掌握新时代设计师的超能力。_
 
-*欢迎来到 AI 时代的设计世界！* 🎨🤖✨
+_欢迎来到 AI 时代的设计世界！_ 🎨🤖✨
 
 ## 📞 需要帮助？
 
 如果在体验过程中遇到问题：
-- 查看 [快速检查清单](/modules/00-ai-setup/resources/quick-checklist.md)
+
+- 查看 [快速检查清单](resources/quick-checklist.md)
 - 在 GitHub Issues 中提问
 - 与其他学员交流经验
 
 **记住**：每个人的第一次都可能遇到小问题，这很正常！重要的是体验到这种全新的工作方式。
+
+---
+
+## 🚀 下一步：开始真正的前端学习
+
+**恭喜！** 🎉 你已经完成了 AI 编程环境的配置，体验了设计图到代码的神奇转换。
+
+现在开始真正的前端技能学习：[模块 1：现代 Web 基础 + AI 协作](../../01-web-basics/)
+
+**你即将学到**：
+
+- 使用 Vite 建立现代开发环境
+- 掌握 HTML5、CSS Grid、Flexbox
+- 在 AI 协助下完成第一个作品集网站 V1.0
+
+**设计师的优势**：你已经有了 AI 工具，接下来的学习会比传统方式快得多！ 🎨➡️💻

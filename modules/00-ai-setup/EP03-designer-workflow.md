@@ -300,7 +300,7 @@ focus = "视觉还原、用户体验、响应式设计"
 
 **完美！** 现在你有了一个真正懂设计的 AI 伙伴。
 
-是时候体验真正的魔法了：[EP04: 第一次 Vibe Coding 体验](EP04-first-experience.md)
+是时候体验真正的魔法了：[EP04: 第一次 Vibe Coding 体验](../EP04-first-experience/)
 
 ---
 

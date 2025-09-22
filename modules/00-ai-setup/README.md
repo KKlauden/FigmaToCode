@@ -95,7 +95,7 @@ permalink: /modules/00-ai-setup/
 
 ## 🎯 开始学习
 
-**准备好了吗？** 让我们从 [EP01: 安装和基本配置](EP01-installation.md) 开始！
+**准备好了吗？** 让我们从 [EP01: 安装和基本配置](EP01-installation/) 开始！
 
 ---
 

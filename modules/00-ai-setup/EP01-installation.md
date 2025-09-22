@@ -174,7 +174,7 @@ permalink: /modules/00-ai-setup/EP01-installation/
 
 **太棒了！** 你已经拥有了 AI 编程的基础工具。
 
-现在继续学习：[EP02: Codex 2025 新功能和 MCP 设置](EP02-codex-features.md)
+现在继续学习：[EP02: Codex 2025 新功能和 MCP 设置](../EP02-codex-features/)
 
 ---
 
