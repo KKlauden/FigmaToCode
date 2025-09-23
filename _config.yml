@@ -11,7 +11,9 @@ plugins:
 
 # Header pages for navigation
 header_pages:
-  - modules.md
+  - modules/index.md
+  - devlog/index.md
+  - news/index.md
 
 # Author
 author:
@@ -38,6 +40,8 @@ collections:
 # Include non-standard directories
 include:
   - modules
+  - devlog
+  - news
 
 # Defaults
 defaults:

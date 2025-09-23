@@ -19,8 +19,8 @@ title: FigmaToCode：设计师转前端开发者
 ## 🎯 项目进化路线
 
 **🌱 V1.0 基础网站**（模块 1）
-- 技术栈：Vite + HTML/CSS/JS
-- 产出：响应式作品集网站 + 设计系统规范
+- 技术栈：原生 HTML/CSS/JavaScript
+- 产出：完整的多页面个人网站 + 前端基础技能
 
 **🚀 V2.0 组件化重构**（模块 2）
 - 技术栈：React + Storybook
@@ -47,8 +47,8 @@ title: FigmaToCode：设计师转前端开发者
 ### [模块 0：AI 编程环境配置](modules/00-ai-setup/) ⭐
 建立 AI 编程工作环境，完成第一次 Vibe Coding 体验
 
-### [模块 1：现代 Web 基础 + AI 协作](modules/01-web-basics/) ⭐⭐
-通过 AI 协作掌握现代 Web 开发基础，完成作品集网站 V1.0
+### [模块 1：Web 基础 + AI 协作魔法](modules/01-web-basics/) ⭐⭐
+渐进式学习前端基础，完成个人网站 V1.0 项目
 
 ### [模块 2：React 组件化开发](modules/02-react-development/) ⭐⭐⭐
 掌握 React 组件化思维，重构作品集为 V2.0
@@ -65,10 +65,28 @@ title: FigmaToCode：设计师转前端开发者
 ### [模块 6：跨平台开发](modules/06-cross-platform/) ⭐⭐⭐⭐
 掌握跨平台开发能力，扩展作品集为 V6.0 多端生态
 
+## 📰 最新动态
+
+### [📝 开发日志](devlog/)
+跟踪项目开发进度，记录重要的技术决策和学习心得：
+
+- **[模块00扩展完成](devlog/2025-01-15-module00-expansion/)** - 新增EP05开发环境配置，完善AI工具集成体验
+- **[项目结构重构](devlog/2025-01-15-project-restructure/)** - 优化文档组织，建立更清晰的学习路径
+- **[Figma MCP集成](devlog/2025-01-12-figma-mcp-integration/)** - 实现设计到代码的无缝转换
+
+### [🔥 技术资讯](news/)
+关注设计师转前端开发相关的最新技术动态：
+
+- **[OpenAI Codex CLI 重大升级](news/2025-01-10-codex-cli-upgrade/)** - GPT-5-Codex模型集成，性能提升3倍
+- **[Figma Dev Mode MCP 服务器正式版](news/2025-01-08-figma-mcp-release/)** - 实现设计到代码的直连
+- **[Figma 新增 AI 设计助手](news/2025-01-12-figma-ai-assistant/)** - 集成智能布局和内容生成功能
+
+---
+
 ## 🎯 立即开始
 
-1. **环境配置**：完成[模块 0](/modules/00-ai-setup/) 的 AI 编程环境配置
-2. **基础学习**：从[模块 1](/modules/01-web-basics/) 开始，打造第一个作品集网站
+1. **环境配置**：完成[模块 0](modules/00-ai-setup/) 的 AI 编程环境配置
+2. **基础学习**：从[模块 1](modules/01-web-basics/) 开始，打造第一个作品集网站
 3. **选择路径**：根据个人目标选择完整全栈或 Web 专精路径
 4. **持续迭代**：在实践中不断完善你的作品集网站
 

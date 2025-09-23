@@ -274,7 +274,7 @@ permalink: /modules/00-ai-setup/EP04-first-experience/
 
 现在你可以：
 
-1. **深入学习**：进入 [模块 1: Web 基础 + AI 协作入门](/modules/01-web-basics/)
+1. **深入学习**：进入 [模块 1: Web 基础 + AI 协作魔法](/modules/01-web-basics/)
 2. **继续实验**：用不同的设计图和需求练习
 3. **分享体验**：告诉其他设计师这个神奇的体验
 4. **探索可能性**：想象 AI 编程如何改变你的工作
@@ -303,11 +303,11 @@ _欢迎来到 AI 时代的设计世界！_ 🎨🤖✨
 
 **恭喜！** 🎉 你已经完成了 AI 编程环境的配置，体验了设计图到代码的神奇转换。
 
-现在开始真正的前端技能学习：[模块 1：现代 Web 基础 + AI 协作](/modules/01-web-basics/)
+现在开始真正的前端技能学习：[模块 1：Web 基础 + AI 协作魔法](/modules/01-web-basics/)
 
 **你即将学到**：
 
-- 使用 Vite 建立现代开发环境
+- 学习 HTML、CSS、JavaScript 基础
 - 掌握 HTML5、CSS Grid、Flexbox
 - 在 AI 协助下完成第一个作品集网站 V1.0
 

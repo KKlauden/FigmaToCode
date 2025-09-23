@@ -20,14 +20,14 @@ permalink: /modules/
 
 ---
 
-### [模块 1：现代 Web 基础 + AI 协作](./modules/01-web-basics/) ⭐⭐
-**作品集版本**：V1.0 基础展示网站
-**技术栈**：Vite + HTML/CSS/JS
+### [模块 1：Web 基础 + AI 协作魔法](./modules/01-web-basics/) ⭐⭐
+**作品集版本**：V1.0 个人网站项目
+**技术栈**：原生 HTML/CSS/JavaScript
 
-- Vite 环境 + HTML 语义化
-- 现代 CSS + 响应式布局
-- JavaScript 核心 + 交互效果
-- 项目完善 + 优化
+- HTML结构基础 - 我的第一个个人主页
+- CSS样式魔法 - 让HTML变得美观
+- JavaScript交互生活 - 让页面动起来
+- 完整项目架构 - 多页面个人网站
 
 ---
 
