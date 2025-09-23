@@ -21,14 +21,33 @@ permalink: /modules/01-web-basics/
 3. **JavaScript 交互** - 给静态页面添加生命力
 4. **项目架构** - 构建完整的多页面网站
 
-<!-- ## 🎧 配套播客
+## 🎧 配套播客
 
-**🎵 模块 01 完整指南：Web 基础魔法体验**
+**🎧 EP01 配套播客**：
+**🎵 HTML 基础入门：设计师的 Web 结构启蒙**
 
-- [🎧 Internet Archive 收听](https://archive.org/details/01-web-basics#) - 无需注册，直接播放
+- [🎧 Internet Archive 收听](https://archive.org/details/01-ep-01-html-basics) - 无需注册，直接播放
 - [🎵 Spotify 收听](https://open.spotify.com/episode/5v7aH5TWMg5fSoFbwrItdo?si=67GxkfGKQw-UrFHnM5gYJw&nd=1&dlsi=88714f8e1fd74c4d) - 需要 Spotify 账号
 
-_推荐先听播客了解全貌，再跟着文档操作！_ -->
+**🎧 EP02 配套播客**：
+**🎵 CSS 样式魔法：设计师的视觉设计启蒙**
+
+- [🎧 Internet Archive 收听](https://archive.org/details/01-ep-02-css-styling) - _即将上线_
+- [🎵 Spotify 收听](https://open.spotify.com/) - _即将上线_
+
+**🎧 EP03 配套播客**：
+**🎵 JavaScript 交互魔法：让设计活起来**
+
+- [🎧 Internet Archive 收听](https://archive.org/details/01-ep-03-javascript) - _即将上线_
+- [🎵 Spotify 收听](https://open.spotify.com/) - _即将上线_
+
+**🎧 EP04 配套播客**：
+**🎵 项目架构设计：从单页面到完整网站**
+
+- [🎧 Internet Archive 收听](https://archive.org/details/01-ep-04-project-structure) - _即将上线_
+- [🎵 Spotify 收听](https://open.spotify.com/) - _即将上线_
+
+_推荐先听播客了解全貌，再跟着文档操作！_
 
 ## 📚 EP 学习路径
 
@@ -40,12 +59,6 @@ _推荐先听播客了解全貌，再跟着文档操作！_ -->
 - 理解 HTML 标签的作用和语义化
 - 修改个人信息，体验内容结构的力量
 
-**🎧 EP01 配套播客**：
-**🎵 HTML 基础入门：设计师的 Web 结构启蒙**
-
-- [🎧 Internet Archive 收听](https://archive.org/details/01-ep-01-html-basics) - 无需注册，直接播放
-- [🎵 Spotify 收听](https://open.spotify.com/episode/5v7aH5TWMg5fSoFbwrItdo?si=67GxkfGKQw-UrFHnM5gYJw&nd=1&dlsi=88714f8e1fd74c4d) - 需要 Spotify 账号
-
 **实战产出**：结构清晰的个人主页 HTML
 
 ### [EP02: CSS 样式魔法 - 让 HTML 变得美观](EP02-css-styling-magic/) ⏱️ 45 分钟
@@ -55,12 +68,6 @@ _推荐先听播客了解全貌，再跟着文档操作！_ -->
 - 为 EP01 的 HTML 添加现代 CSS 样式
 - 理解 CSS 如何控制网页的视觉呈现
 - 学习设计系统的代码化实现
-
-**🎧 EP02 配套播客**：
-**🎵 CSS 样式魔法：设计师的视觉设计启蒙**
-
-- [🎧 Internet Archive 收听](https://archive.org/details/01-ep-02-css-styling) - _即将上线_
-- [🎵 Spotify 收听](https://open.spotify.com/) - _即将上线_
 
 **实战产出**：美观的个人主页 + CSS 基础技能
 
@@ -72,12 +79,6 @@ _推荐先听播客了解全貌，再跟着文档操作！_ -->
 - 实现主题切换、表单验证、动画效果
 - 理解事件驱动编程的基础概念
 
-**🎧 EP03 配套播客**：
-**🎵 JavaScript 交互魔法：让设计活起来**
-
-- [🎧 Internet Archive 收听](https://archive.org/details/01-ep-03-javascript) - _即将上线_
-- [🎵 Spotify 收听](https://open.spotify.com/) - _即将上线_
-
 **实战产出**：具有完整交互体验的个人主页
 
 ### [EP04: 完整项目架构 - 多页面个人网站](EP04-complete-project-structure/) ⏱️ 35 分钟
@@ -87,12 +88,6 @@ _推荐先听播客了解全貌，再跟着文档操作！_ -->
 - 将单页面扩展为多页面网站结构
 - 创建专业的导航系统和项目架构
 - 学习文件组织和项目管理
-
-**🎧 EP04 配套播客**：
-**🎵 项目架构设计：从单页面到完整网站**
-
-- [🎧 Internet Archive 收听](https://archive.org/details/01-ep-04-project-structure) - _即将上线_
-- [🎵 Spotify 收听](https://open.spotify.com/) - _即将上线_
 
 **实战产出**：完整的 V1.0 个人网站项目
 
