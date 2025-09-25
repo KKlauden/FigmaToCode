@@ -21,34 +21,6 @@ permalink: /modules/01-web-basics/
 3. **JavaScript 交互** - 给静态页面添加生命力
 4. **项目架构** - 构建完整的多页面网站
 
-## 🎧 配套播客
-
-**🎧 EP01 配套播客**：
-**🎵 HTML 基础入门：设计师的 Web 结构启蒙**
-
-- [🎧 Internet Archive 收听](https://archive.org/details/01-ep-01-html-basics) - 无需注册，直接播放
-- [🎵 Spotify 收听](https://open.spotify.com/episode/5v7aH5TWMg5fSoFbwrItdo?si=67GxkfGKQw-UrFHnM5gYJw&nd=1&dlsi=88714f8e1fd74c4d) - 需要 Spotify 账号
-
-**🎧 EP02 配套播客**：
-**🎵 CSS 样式魔法：设计师的视觉设计启蒙**
-
-- [🎧 Internet Archive 收听](https://archive.org/details/01-ep-02-css-styling) - _即将上线_
-- [🎵 Spotify 收听](https://open.spotify.com/) - _即将上线_
-
-**🎧 EP03 配套播客**：
-**🎵 JavaScript 交互魔法：让设计活起来**
-
-- [🎧 Internet Archive 收听](https://archive.org/details/01-ep-03-javascript) - _即将上线_
-- [🎵 Spotify 收听](https://open.spotify.com/) - _即将上线_
-
-**🎧 EP04 配套播客**：
-**🎵 项目架构设计：从单页面到完整网站**
-
-- [🎧 Internet Archive 收听](https://archive.org/details/01-ep-04-project-structure) - _即将上线_
-- [🎵 Spotify 收听](https://open.spotify.com/) - _即将上线_
-
-_推荐先听播客了解全貌，再跟着文档操作！_
-
 ## 📚 EP 学习路径
 
 ### [EP01: HTML 结构基础 - 我的第一个个人主页](EP01-html-basics/) ⏱️ 30 分钟
@@ -194,25 +166,43 @@ HTML语法 → CSS属性 → JavaScript函数 → 独立练习
 - [ ] **组件化意识**：认识到重复元素需要系统化管理
 - [ ] **现代开发认知**：准备学习更高级的开发工具和框架
 
-## 📚 推荐参考资源
+## 📚 学习资源大全
 
-### **PDF 配套书籍**
+### 🆓 **免费在线教程**（强烈推荐）
 
-- **Jon Duckett HTML & CSS** - 适合设计师的可视化学习
-- **CSS Secrets** - 实用技巧和最佳实践
-- **CSS 权威指南** - 深度参考（不需要全读）
+#### HTML 基础学习
 
-### **在线工具**
+- **[MDN HTML 入门教程](https://developer.mozilla.org/zh-CN/docs/Learn/HTML/Introduction_to_HTML)** - 最权威的 HTML 学习资源
+- **[W3Schools HTML 教程](https://www.w3schools.com/html/)** - 初学者友好，有在线编辑器
 
-- [CodePen](https://codepen.io/) - 在线代码实验工具
-- [Can I Use](https://caniuse.com/) - 浏览器兼容性查询
-- [MDN Web Docs](https://developer.mozilla.org/) - 最权威的 Web 技术文档
+#### CSS 样式学习
 
-### **设计师友好资源**
+- **[MDN CSS 入门教程](https://developer.mozilla.org/zh-CN/docs/Learn/CSS/First_steps)** - CSS 基础到高级
+- **[W3Schools CSS 教程](https://www.w3schools.com/css/)** - 系统性 CSS 学习
+- **[CSS-Tricks 完整指南](https://css-tricks.com/)** - 实用 CSS 技巧和最佳实践
 
-- [CSS Grid Generator](https://cssgrid-generator.netlify.app/) - 可视化 Grid 布局生成器
-- [Flexbox Froggy](https://flexboxfroggy.com/) - 游戏化学习 Flexbox
-- [CSS Reference](https://cssreference.io/) - 可视化 CSS 属性参考
+#### JavaScript 交互学习
+
+- **[MDN JavaScript 指南](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide)** - 权威 JS 学习资源
+- **[现代 JavaScript 教程](https://zh.javascript.info/)** - 现代 JS 语法和概念
+- **[W3Schools JavaScript 教程](https://www.w3schools.com/js/)** - 基础 JS 入门
+
+#### 🎮 **游戏化学习**（寓教于乐）
+
+- **[Flexbox Froggy](https://flexboxfroggy.com/)** - 青蛙游戏学习 Flexbox 布局
+- **[CSS Grid Garden](https://cssgridgarden.com/)** - 花园游戏学习 Grid 布局
+
+### 📖 **推荐书籍**（深度学习）
+
+#### 设计师友好
+
+- **HTML and CSS: Design and Build Websites** by Jon Duckett
+
+  - 📱 可视化学习方式，特别适合设计师
+
+- **CSS Secrets** by Lea Verou
+  - 🎨 47 个 CSS 实用技巧和最佳实践
+  - 💡 适合提升 CSS 技能的设计师
 
 ## 🎯 下一步学习
 
