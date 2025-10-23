@@ -66,6 +66,7 @@ permalink: /modules/04-professional-deployment/EP04-monitoring-optimization/
 **自定义事件配置**：
 
 更新 `app/components/ui/Button.tsx`：
+{% raw %}
 ```tsx
 'use client'
 
@@ -148,6 +149,7 @@ export default function Button({
   )
 }
 ```
+{% endraw %}
 
 **页面浏览追踪**：
 
@@ -254,6 +256,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
 #### 结构化数据配置
 创建 `app/components/StructuredData.tsx`：
+{% raw %}
 ```tsx
 import Script from 'next/script'
 
@@ -306,6 +309,7 @@ export default function PersonStructuredData({
   )
 }
 ```
+{% endraw %}
 
 在 `app/layout.tsx` 中使用：
 ```tsx

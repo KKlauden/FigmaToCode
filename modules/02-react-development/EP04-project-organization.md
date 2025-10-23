@@ -263,6 +263,7 @@ export default PersonalIntro;
 
 `src/components/sections/SkillsSection/SkillsSection.jsx`：
 
+{% raw %}
 ```jsx
 import Card from "../../ui/Card";
 import "./SkillsSection.css";
@@ -322,6 +323,7 @@ function SkillsSection() {
 
 export default SkillsSection;
 ```
+{% endraw %}
 
 ## 🔄 组件通信：数据流管理（10 分钟）
 

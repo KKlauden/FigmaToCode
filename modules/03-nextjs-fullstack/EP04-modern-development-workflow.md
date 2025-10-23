@@ -304,6 +304,7 @@ npm install framer-motion
 **创建动画组件**：
 
 `components/ui/FadeInUp.tsx`：
+{% raw %}
 ```tsx
 'use client'
 
@@ -337,10 +338,12 @@ export default function FadeInUp({
   )
 }
 ```
+{% endraw %}
 
 **页面滚动动画**：
 
 `components/ui/ScrollReveal.tsx`：
+{% raw %}
 ```tsx
 'use client'
 
@@ -373,12 +376,14 @@ export default function ScrollReveal({
   )
 }
 ```
+{% endraw %}
 
 ### 交互效果优化
 
 **按钮悬停效果**：
 
 更新 `components/ui/Button.tsx`：
+{% raw %}
 ```tsx
 'use client'
 
@@ -434,12 +439,14 @@ export default function Button({
   )
 }
 ```
+{% endraw %}
 
 ### 页面转场效果
 
 **创建页面包装器**：
 
 `components/layout/PageWrapper.tsx`：
+{% raw %}
 ```tsx
 'use client'
 
@@ -463,6 +470,7 @@ export default function PageWrapper({ children }: PageWrapperProps) {
   )
 }
 ```
+{% endraw %}
 
 **在页面中使用**：
 ```tsx

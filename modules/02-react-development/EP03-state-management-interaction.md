@@ -148,6 +148,7 @@ export default ThemeToggle
 
 **React中的事件处理**：
 
+{% raw %}
 ```jsx
 function InteractiveDemo() {
   const [message, setMessage] = useState('等待用户操作...')
@@ -179,6 +180,7 @@ function InteractiveDemo() {
   )
 }
 ```
+{% endraw %}
 
 ### 创建可交互的导航组件
 

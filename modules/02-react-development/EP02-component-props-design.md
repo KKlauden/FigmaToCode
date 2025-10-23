@@ -202,6 +202,7 @@ function Button(props) {
 
 在`App.jsx`中测试不同的按钮：
 
+{% raw %}
 ```jsx
 import Button from './components/Button'
 
@@ -225,6 +226,7 @@ function App() {
   )
 }
 ```
+{% endraw %}
 
 **🎉 成功！** 你刚刚创建了一个完全可配置的Button组件！
 
